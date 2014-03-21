@@ -1,0 +1,9 @@
+Building LvyeCoin
+
+See doc/readme-qt.rst for instructions on building LvyeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitcoin.
+
+See doc/build-*.txt for instructions on building lvyecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcoin.
